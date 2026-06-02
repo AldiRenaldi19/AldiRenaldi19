@@ -1,148 +1,76 @@
-# Aldi Renaldi
+# Halo, Saya Aldi Renaldi 👋
 
-Full-Stack Developer | Mobile App Developer | Content Creator
+**Full-Stack Web & Mobile Developer | DevOps | IT System Designer**
 
-Welcome to my GitHub profile! I'm a passionate developer specializing in web and mobile application development with expertise in modern frameworks and tools. I love building scalable solutions and sharing knowledge with the community.
-
----
-
-## About Me
-
-I'm a dedicated full-stack developer with a strong passion for creating elegant, efficient, and user-centric applications. With expertise spanning web development, mobile app development, and backend systems, I thrive on solving complex technical challenges and collaborating with teams to deliver exceptional results.
-
-- Currently: Building web and mobile applications with modern technologies
-- Learning: Advanced architecture patterns and emerging technologies
-- Available for: Freelance projects, collaborations, and full-time opportunities
-- Hobbies: Gaming, content creation, and exploring new tech trends
-- Philosophy: Clean code, user-first design, and continuous improvement
+Selamat datang di profil GitHub saya! Saya adalah mahasiswa Teknik Informatika semester 6 yang berdedikasi dalam membangun solusi digital yang scalable dan efisien. Dengan fondasi kuat di ekosistem **Laravel 11** dan **Flutter**, saya fokus pada pengembangan sistem yang memadukan automasi bisnis, integrasi AI, serta arsitektur database yang tangguh.
 
 ---
 
-## Technical Stack
+## 🛠 Tech Stack
 
-### Programming Languages
-- **Web Backend:** PHP, Node.js, Java
-- **Frontend:** JavaScript, TypeScript, HTML5, CSS3
-- **Mobile:** Dart (Flutter), JavaScript/TypeScript (React Native)
-- **Database:** MySQL, PostgreSQL, MongoDB
+### Web & Backend
+* **Framework:** Laravel 11 (Herd), Express.js, Spring Boot, Node.js
+* **Languages:** PHP, JavaScript, TypeScript, Java
+* **Frontend:** Tailwind CSS, React, Vue.js, Vite
 
-### Frameworks and Platforms
-- **Backend:** Laravel (with Herd), Express.js, Spring Boot
-- **Frontend:** React, Vue.js, Tailwind CSS
-- **Mobile:** Flutter, React Native
-- **Real-time:** Socket.io, WebSocket
+### Mobile & IoT
+* **Mobile:** Flutter (State Management, BLoC/Provider, API Integration)
+* **Hardware/IoT:** ESP32, Protokol LoRa, Sensor & Actuator Systems
 
-### Database and Tools
-- **Database Management:** MySQL, PostgreSQL
-- **GUI Tools:** DBngin, TablePlus, DBeaver
-- **Development Environment:** Herd Laravel, XAMPP, Docker
-- **Version Control:** Git, GitHub
-- **DevOps:** GitHub Actions, Nginx, Apache
-- **Project Management:** Jira, Trello, Notion
-
-### Specializations
-- Full-Stack Web Development
-- Cross-Platform Mobile Development
-- RESTful API Design & Development
-- Database Architecture & Optimization
-- Real-time Applications
-- Freelance Project Management
+### Tools, DevOps & Databases
+* **Environment:** Laravel Herd, Docker, XAMPP, VS Code
+* **Database:** MySQL, PostgreSQL, MongoDB, TablePlus, DBeaver
+* **Deployment:** Railway, Linux/Intranet Infrastructure, Microsoft Server, SSH
+* **Version Control:** Git, GitHub
 
 ---
 
-## Featured Projects
+## 🚀 Proyek Unggulan
 
-### Eduide - Learning Management System
-https://github.com/AldiRenaldi19/eduide
+Berikut adalah rekam jejak pengembangan sistem yang pernah saya bangun:
 
-A comprehensive learning management system designed to streamline education delivery. Built with modern web technologies, featuring user authentication, course management, assignments, progress tracking, and real-time notifications.
-
-**Tech Stack:** Laravel, React, MySQL, Docker, Tailwind CSS
+* **[EduIde]([https://github.com/AldiRenaldi19/EduIde-MediaBelajar.git])** – Learning Management System yang dilengkapi dengan fitur AI-Generated Modules dan Chatbot asistensi belajar.
+* **[Sajuta Berkah]([https://github.com/AldiRenaldi19/web-freshmarket-main.git])** – Platform digital untuk manajemen pasar segar (Fresh Market). Dikembangkan menggunakan metodologi **Rapid Application Development (RAD)** untuk inventory & sales automation.
+* **[Company Profile - Service Point TOP1]([https://github.com/AldiRenaldi19/service-point-new.git])** – Analisis dan pengembangan digitalisasi profil bisnis untuk bengkel Service Point TOP1.
+* **[KawanKode AI]([-])** – Telegram Bot berbasis Node.js yang terintegrasi dengan **Gemini API (2.0 Flash & 1.5 Flash)** untuk membantu proses coding dan debugging.
+* **[Cipher Guard]([https://github.com/AldiRenaldi19/cipher-guard.git])** – Sistem keamanan aplikasi web yang dioptimalkan untuk deployment cloud (Railway).
+* **[Sistem Informasi Penduduk]([-])** – Perancangan sistem manajemen kependudukan dengan fokus pada pemodelan HIPO diagram dan Entity Relationship Diagram (ERD).
 
 ---
 
-## GitHub Statistics
+## 📈 Development Workflow
+
+| Jenis Proyek | Backend | Frontend/Mobile | Database |
+| :--- | :--- | :--- | :--- |
+| **Web App (UMKM/LMS)** | Laravel | React / Tailwind | MySQL / PostgreSQL |
+| **Mobile App** | Node.js / Laravel API | Flutter | MySQL / Firebase |
+| **IoT System** | C++ (ESP32) | Flutter Dashboard | MySQL |
+
+---
+
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AldiRenaldi19&show_icons=true&theme=radical&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AldiRenaldi19&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-## Development Workflow
+## 🎓 Tentang Saya
 
-My typical tech stack for different project types:
-
-| Project Type | Backend | Frontend | Database | Tools |
-|---|---|---|---|---|
-| **Web Application** | Laravel / Node.js | React / Vue.js | MySQL / PostgreSQL | TablePlus, DBngin, Herd |
-| **API Development** | PHP / Node.js / Java | REST API | MySQL | Postman, DBngin |
-| **Mobile App** | Node.js / Laravel | Flutter / React Native | Firebase / MySQL | Android Studio, Xcode |
-| **Real-time App** | Node.js + Socket.io | React | MongoDB | Docker, Redis |
+* **Mahasiswa:** Teknik Informatika Semester 6 (Fokus pada Data Science & Distributed Systems).
+* **Filosofi:** *"Code compliance, modularity, and delivering real-world business value."*
+* **Pencapaian:** Penulis artikel *"Dualitas Eksistensi"* di platform portofolio **Eduide**. Aktif mendalami studi kepemimpinan (DISC) untuk manajemen tim proyek.
+* **Minat Riset:** Big Data (Naive Bayes, Decision Trees, Entropy) dan infrastruktur jaringan.
 
 ---
 
-## Services & Availability
+## 📬 Let's Connect
 
-### Freelance Services
-- Web Application Development (Laravel, Node.js, React)
-- Mobile App Development (Flutter, React Native)
-- API Development & Integration
-- Database Design & Optimization
-- Technical Consulting
-- Code Review & Refactoring
+Saya selalu terbuka untuk kolaborasi, diskusi teknis, maupun kesempatan freelance.
 
-### Current Status
-OPEN FOR FREELANCE PROJECTS | Available for part-time and full-time opportunities
+* 📧 **Email:** [aldirenaldi1111@gmail.com](mailto:aldirenaldi1111@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/aldirenaldiw](www.linkedin.com/in/aldi-renaldi-w-72ab0a2a7)
+* 🌐 **Portfolio/Eduide:** [next i cretae this]
 
 ---
-
-## Learning & Growth
-
-- Continuously exploring cloud technologies and microservices
-- Experimenting with AI/ML integration in web applications
-- Contributing to open-source projects
-- Creating technical content and tutorials
-
----
-
-## Beyond Code
-
-When I'm not coding, you'll find me:
-- Playing games and exploring game development
-- Creating technical content and tutorials
-- Building side projects and experimenting with new technologies
-- Mentoring junior developers
-
----
-
-## Let's Connect & Collaborate
-
-I'm always excited to work on interesting projects and connect with fellow developers. Whether you have a project in mind, want to collaborate, or simply want to discuss tech, feel free to reach out!
-
-- Email: your.email@example.com
-- LinkedIn: linkedin.com/in/aldirenaldi19
-- Twitter/X: @yourhandle
-- Personal Website: your-portfolio.com
-- Instagram: @your_instagram
-
----
-
-## My Journey
-
-2024-Present: Full-Stack Developer | Freelance Projects
-2023-2024: Web Development & Mobile App Focus
-2022-2023: Foundation in Laravel & Modern JavaScript
-2021-2022: Started learning web development
-
----
-
-## Let's Make Something Amazing Together!
-
-If you find my projects interesting or think we could collaborate, don't hesitate to reach out. I'm always open to new opportunities, learning from others, and building something meaningful.
-
-Happy coding!
-
----
-
-Last updated: June 2, 2026 | Open for collaboration and freelance opportunities
+*Last updated: June 2026 | Open for collaboration.*
