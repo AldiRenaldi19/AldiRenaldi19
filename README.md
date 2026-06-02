@@ -29,12 +29,12 @@ Selamat datang di profil GitHub saya! Saya adalah mahasiswa Teknik Informatika s
 
 Berikut adalah rekam jejak pengembangan sistem yang pernah saya bangun:
 
-* **[EduIde]([https://github.com/AldiRenaldi19/EduIde-MediaBelajar.git])** – Learning Management System yang dilengkapi dengan fitur AI-Generated Modules dan Chatbot asistensi belajar.
-* **[Sajuta Berkah]([https://github.com/AldiRenaldi19/web-freshmarket-main.git])** – Platform digital untuk manajemen pasar segar (Fresh Market). Dikembangkan menggunakan metodologi **Rapid Application Development (RAD)** untuk inventory & sales automation.
-* **[Company Profile - Service Point TOP1]([https://github.com/AldiRenaldi19/service-point-new.git])** – Analisis dan pengembangan digitalisasi profil bisnis untuk bengkel Service Point TOP1.
-* **[KawanKode AI]([-])** – Telegram Bot berbasis Node.js yang terintegrasi dengan **Gemini API (2.0 Flash & 1.5 Flash)** untuk membantu proses coding dan debugging.
-* **[Cipher Guard]([https://github.com/AldiRenaldi19/cipher-guard.git])** – Sistem keamanan aplikasi web yang dioptimalkan untuk deployment cloud (Railway).
-* **[Sistem Informasi Penduduk]([-])** – Perancangan sistem manajemen kependudukan dengan fokus pada pemodelan HIPO diagram dan Entity Relationship Diagram (ERD).
+* **[EduIde](https://github.com/AldiRenaldi19/EduIde-MediaBelajar.git)** – Learning Management System yang dilengkapi dengan fitur AI-Generated Modules dan Chatbot asistensi belajar.
+* **[Sajuta Berkah](https://github.com/AldiRenaldi19/web-freshmarket-main.git)** – Platform digital untuk manajemen pasar segar (Fresh Market). Dikembangkan menggunakan metodologi **Rapid Application Development (RAD)** untuk inventory & sales automation.
+* **[Company Profile - Service Point TOP1](https://github.com/AldiRenaldi19/service-point-new.git)** – Analisis dan pengembangan digitalisasi profil bisnis untuk bengkel Service Point TOP1.
+* **[KawanKode AI](https://github.com/AldiRenaldi19)** *(private)* – Telegram Bot berbasis Node.js yang terintegrasi dengan **Gemini API (2.0 Flash & 1.5 Flash)** untuk membantu proses coding dan debugging.
+* **[Cipher Guard](https://github.com/AldiRenaldi19/cipher-guard.git)** – Sistem keamanan aplikasi web yang dioptimalkan untuk deployment cloud (Railway).
+* **[Sistem Informasi Penduduk](https://github.com/AldiRenaldi19)** *(private)* – Perancangan sistem manajemen kependudukan dengan fokus pada pemodelan HIPO diagram dan Entity Relationship Diagram (ERD).
 
 ---
 
@@ -50,8 +50,9 @@ Berikut adalah rekam jejak pengembangan sistem yang pernah saya bangun:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AldiRenaldi19&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AldiRenaldi19&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AldiRenaldi19&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AldiRenaldi19&layout=compact&theme=radical&hide_border=true&count_private=true)
 
 ---
 
@@ -69,7 +70,7 @@ Berikut adalah rekam jejak pengembangan sistem yang pernah saya bangun:
 Saya selalu terbuka untuk kolaborasi, diskusi teknis, maupun kesempatan freelance.
 
 * 📧 **Email:** [aldirenaldi1111@gmail.com](mailto:aldirenaldi1111@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/aldirenaldiw](www.linkedin.com/in/aldi-renaldi-w-72ab0a2a7)
+* 💼 **LinkedIn:** [Aldi Renaldi](https://www.linkedin.com/in/aldi-renaldi-w-72ab0a2a7)
 * 🌐 **Portfolio/Eduide:** [next i cretae this]
 
 ---
